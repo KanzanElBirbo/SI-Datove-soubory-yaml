@@ -1,0 +1,52 @@
+movies:
+  - 
+    id: 1
+    name: "The Fast And Furious"
+    genre: "Action"
+    MainActors:
+      -
+        name: "Vin Diesel"
+        gender: "male"
+        CharacterName: "Dominic Toretto"
+      -
+        name: "Paul Walker"
+        gender: "male"
+        CharacterName: "Brian O'Connor"
+      -
+        name: "Tyrese Gibson"
+        gender: "male"
+        CharacterName: "Roman Pearce"
+      -
+        name: "Jordanna Brewster"
+        gender: "female"
+        CharacterName: "Mia Toretto"
+    
+    ReleaseYear: 2001
+    place: "USA"
+
+
+  -
+    id: 2
+    name: "Hunger Games"
+    genre: "Action"
+    MainActors:
+      -
+        name: "Jennifer Lawrence"
+        gender: "female"
+        CharacterName: "Katniss Everdeen"
+      -
+        name: "Josh Hutcherson"
+        gender: "male"
+        CharacterName: "Peta Mellark"
+      -
+        name: "Alexander Ludwig"
+        gender: "male"
+        CharacterName: "Cato Hadley"
+      -
+        name: "Woody Harrelson"
+        gender: "male"
+        CharacterName: "Haymitch Abernathy"
+    
+    ReleaseYear: 2001
+    place: "Nation of Panem (fictional)"
+
